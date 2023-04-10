@@ -158,6 +158,7 @@ MonoBehaviour:
   - {fileID: 8898949109740987833, guid: 346f17a0e76264663bec95b8bbe3dcaa, type: 3}
   - {fileID: 460832430296665745, guid: 26b6b563767e141b0bc2f68beec53371, type: 3}
   scoreText: {fileID: 2034667483}
+  gameOverText: {fileID: 527722405}
 --- !u!4 &53351533
 Transform:
   m_ObjectHideFlags: 0
@@ -367,8 +368,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4285923583
+  m_fontColor: {r: 1, g: 0, b: 0.46101236, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
